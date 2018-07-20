@@ -1,0 +1,2 @@
+# django-thumbnail
+Django thumbnail
