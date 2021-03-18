@@ -13,7 +13,7 @@ jwt==0.5.4
 moviepy==0.2.3.5
 mutagen==1.41.0
 numpy==1.14.5
-Pillow==5.2.0
+Pillow==8.1.1
 pycparser==2.18
 PyJWT==1.6.4
 pytz==2018.5
